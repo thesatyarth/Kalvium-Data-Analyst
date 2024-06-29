@@ -13,7 +13,7 @@
 
 **State Wise- Excel**
 -pre-process in Excel(Create state column, copy state names)
--run pySpark program to remove null rows
+-run pySpark program to remove null rows (dbfs:/FileStore/State_Wise.csv) //DataBricks
 
 **In Total PC- Excel**
 -copy paste column A in column B
