@@ -11,6 +11,9 @@
 **Party Result- Excel**
 -select column C, D Press DEL
 
+**State Wise- Excel**
+-pre-process in Excel(Create state column, copy state names)
+-run pySpark program to remove null rows
 
 **In Total PC- Excel**
 -copy paste column A in column B
