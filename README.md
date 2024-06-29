@@ -11,7 +11,7 @@
 
 
 **In Total PC- Excel**
-copy paste column A in column B
-column A Find->  (* Replace All
-column B Find-> * (Total PC - Replace All
-column B Find-> ) Replace All
+-copy paste column A in column B
+-column A Find->  (* Replace All
+-column B Find-> * (Total PC - Replace All
+-column B Find-> ) Replace All
