@@ -8,6 +8,8 @@
 - pip install selenium
 - ChromeDriver Download
 
+**Party Result- Excel**
+-select column C, D Press DEL
 
 
 **In Total PC- Excel**
